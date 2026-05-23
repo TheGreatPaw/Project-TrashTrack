@@ -44,7 +44,7 @@ TrashTrack provides a **Digital Service (Mobile App)** that bridges the gap betw
 *   **Months 7-9 (Launch):** Launch a simple website and start marketing; funds used for developers, tools, and cloud hosting.
 *   **Months 10-12 (Outreach):** Prepare for wider rollout and seek grants; funds used for marketing and public engagement.
 
-## 👨‍💻 Team "The Haven"
+## 👨‍💻 Team
 *   **Hamad D. Abdulkarim** – Head of Venture (Information Systems) | *Focus: Problem Solving*
 *   **Raffy M. G. Tomawis** – Co-Head of Venture (Information Systems) | *Focus: Communication*
 *   **Mentor:** Ms. Azimah D. Ampuan
