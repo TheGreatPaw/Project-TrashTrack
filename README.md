@@ -1,7 +1,7 @@
 # TrashTrack 🚛♻️
 **Making waste disposal smarter with real-time alerts and location-based reminders.**
 
-## 📝 Short Description
+## 📝 Description
 **TrashTrack** is a smart waste collection digital service designed to improve community waste management by notifying residents of the exact time and day for garbage pickup in their area.
 
 ## 📖 Overview
